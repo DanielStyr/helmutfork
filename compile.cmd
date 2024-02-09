@@ -1,2 +1,1 @@
-@echo off
-javac -d bin src/*.java
+javac -d bin ..\helmutfork\*.java
